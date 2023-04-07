@@ -1,0 +1,6 @@
+framework module Pods_PyTorch_App_PyTorch_AppUITests {
+  umbrella header "Pods-PyTorch App-PyTorch AppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
